@@ -1,6 +1,3 @@
-# speaker-ctfdev
-Speaker Experience & CTF-dev Experience
-
 # CTF-dev Experience
 Collection of CTFs I have built for different villages for various conferences like Defcon, RSA and bsides.
 
