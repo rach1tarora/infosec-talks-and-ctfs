@@ -14,9 +14,7 @@ FLAG-{gHs6NqV3XycJZ4kL7FwE2uO1It9pM8dT}
 150 - Higher Easy
 
 ## Hints
-- Remember, the key is in the URL parameters!
-- Check for versions
-- Pay attention to different version IDs
+xxx
 
 ## Services Used
 Blob - East US - [https://botsilver.z13.web.core.windows.net/](https://botsilver.z13.web.core.windows.net/)

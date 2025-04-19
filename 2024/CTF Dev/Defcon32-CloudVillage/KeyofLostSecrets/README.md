@@ -15,15 +15,13 @@ FLAG-{B3C4r3fu1Ab0utD3l3t3dK3y5s3cr3t}
 Score: Hard
 
 ## Hints
-1. Use ROT51 to get username and password
-2. Look for versioned secrets & keys.
-3. Find a way to decrypt the encrypted text using the recovered key. ( use python )
+xxx
 
 ## Services Used
 Keyvault (Key,Secrets), Storageaccount (Static Website)
 
 
-## Implementation Details
+
 ### Step-by-Step Implementation
 xxx
 
