@@ -2,7 +2,7 @@
 - Sunday, April 13, 12:00 PM
 - Track 2
 
-
+[Watch the talk on YouTube](https://www.youtube.com/watch?v=2Q7oOkOgZa0)
 
 ##  About us
 
